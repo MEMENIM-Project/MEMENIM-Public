@@ -4,7 +4,7 @@ EN: Custom client for https://anonym.network/
 RU: Кастомный клиент для https://anonym.network/
 
 ## LATEST RELEASE/АКТУАЛЬНЫЙ РЕЛИЗ
-[v0.9.12](https://github.com/MEMENIM-Project/MEMENIM-Public/releases/tag/v0.9.12)
+[v0.11.12](https://github.com/MEMENIM-Project/MEMENIM-Public/releases/tag/v0.11.12)
 
 ## Исследование дырок анонима
 [Публичный "манифест"](https://gist.github.com/D1ckRider/9046519c03b45d314388a1dfcffb77c4)
