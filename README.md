@@ -7,7 +7,7 @@ RU: Кастомный клиент для https://anonym.network/
 [v0.11.12](https://github.com/MEMENIM-Project/MEMENIM-Public/releases/tag/v0.11.12)
 
 ## Исследование дырок анонима
-[Публичный "манифест"](https://gist.github.com/D1ckRider/9046519c03b45d314388a1dfcffb77c4)
+[Публичный "манифест"](https://github.com/MEMENIM-Project/MEMENIM-Public/blob/master/docs/Message%20to%20Anonym.md)
 
 [Программулина для абъюза дырки с чатами](https://github.com/MEMENIM-Project/MEMENIM-Public/releases/tag/judgmentTool)
 
