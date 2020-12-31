@@ -6,10 +6,18 @@ RU: Кастомный клиент для https://anonym.network/
 ## LATEST RELEASE/АКТУАЛЬНЫЙ РЕЛИЗ
 [v0.11.12](https://github.com/MEMENIM-Project/MEMENIM-Public/releases/tag/v0.11.12)
 
-## Исследование дырок анонима
-[Публичный "манифест"](https://github.com/MEMENIM-Project/MEMENIM-Public/blob/master/docs/Message%20to%20Anonym.md)
+## Документы
+[Публичный "манифест" №1](https://github.com/MEMENIM-Project/MEMENIM-Public/blob/master/docs/Message%20to%20Anonym.md)
 
-[Программулина для абъюза дырки с чатами](https://github.com/MEMENIM-Project/MEMENIM-Public/releases/tag/judgmentTool)
+
+[ANONYM MEME AWARDS 2020](https://github.com/MEMENIM-Project/MEMENIM-Public/blob/master/docs/ANONYM%20MEME%20AWARDS%202020.md)
+
+
+[Поздравление анонима с новым годом 2020](https://github.com/MEMENIM-Project/MEMENIM-Public/blob/master/docs/New%20Year%20Congratz%202020.md)
+
+## Программы
+
+[Программулина для абъюза дырки с чатами (legacy)](https://github.com/MEMENIM-Project/MEMENIM-Public/releases/tag/judgmentTool)
 
 # Links/Ссылки
 
