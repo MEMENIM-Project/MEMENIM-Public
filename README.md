@@ -4,7 +4,7 @@ EN: Custom client for https://anonym.network/
 RU: Кастомный клиент для https://anonym.network/
 
 ## LATEST RELEASE/АКТУАЛЬНЫЙ РЕЛИЗ
-[v0.13.5](https://github.com/MEMENIM-Project/Memenim/releases/tag/v0.13.5)
+[v0.13.5](https://github.com/MEMENIM-Project/MEMENIM-Public/releases/tag/v0.13.5)
 
 ## Документы
 [Публичный "манифест" №1](https://github.com/MEMENIM-Project/MEMENIM-Public/blob/master/docs/Message%20to%20Anonym.md)
