@@ -11,7 +11,7 @@ RU: Кастомный клиент для https://anonym.network/ социал�
 [v0.13.5](https://github.com/MEMENIM-Project/MEMENIM-Public/releases/tag/v0.13.5)
 
 
-## Documents / Документы
+# <div align="center">**Documents / Документы**</div>
 
 [Публичный "манифест" №1](https://github.com/MEMENIM-Project/MEMENIM-Public/blob/master/docs/Message%20to%20Anonym.md)
 
