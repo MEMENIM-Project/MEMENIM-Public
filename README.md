@@ -22,7 +22,7 @@ RU: Кастомный клиент для https://anonym.network/ социал�
 
 # <div align="center">**Tools / Инструменты**</div>
 
-[~~Программулина для абъюза дырки с чатами~~](https://github.com/MEMENIM-Project/MEMENIM-Public/releases/tag/judgmentTool)(obsolete)
+[~~Программулина для абъюза дырки с чатами~~](https://github.com/MEMENIM-Project/MEMENIM-Public/releases/tag/judgmentTool) (obsolete)
 
 
 # <div align="center">**Links / Ссылки**</div>
