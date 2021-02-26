@@ -8,7 +8,7 @@ RU: Кастомный клиент для https://anonym.network/ социал�
 
 ## Latest release / Актуальный релиз
 
-[v0.14.13](https://github.com/MEMENIM-Project/MEMENIM-Public/releases/tag/v0.14.13)
+[v0.14.16](https://github.com/MEMENIM-Project/MEMENIM-Public/releases/tag/v0.14.16)
 
 
 # <div align="center">**Documents / Документы**</div>
