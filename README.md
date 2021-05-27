@@ -10,6 +10,7 @@ EN: Custom client for https://anonym.network/ social network
 
 RU: Кастомный клиент для https://anonym.network/ социальной сети
 
+
 ## Latest release / Актуальный релиз
 
 [v0.15.10](https://github.com/MEMENIM-Project/MEMENIM-Public/releases/tag/v0.15.10)
@@ -22,6 +23,11 @@ RU: Кастомный клиент для https://anonym.network/ социал�
 [ANONYM MEME AWARDS 2020](https://github.com/MEMENIM-Project/MEMENIM-Public/blob/master/docs/ANONYM%20MEME%20AWARDS%202020.md)
 
 [Поздравление анонима с новым годом 2020](https://github.com/MEMENIM-Project/MEMENIM-Public/blob/master/docs/New%20Year%20Congratz%202020.md)
+
+
+# <div align="center">**Memes / Мемы**</div>
+
+[Папка с мемами](https://github.com/MEMENIM-Project/MEMENIM-Public/blob/master/memes/)
 
 
 # <div align="center">**Tools / Инструменты**</div>
