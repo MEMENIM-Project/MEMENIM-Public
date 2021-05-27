@@ -1,0 +1,1 @@
+Привет :zdarova: ищи себя в eboot.bin :marina:
