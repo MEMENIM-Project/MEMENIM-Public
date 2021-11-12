@@ -6,9 +6,10 @@
 
 ---
 
-EN: Custom client for https://anonym.network/ social network
 
-RU: Кастомный клиент для https://anonym.network/ социальной сети
+EN: Custom client for [Anonym social network](https://anonym.network/)
+
+RU: Кастомный клиент для [Anonym social network](https://anonym.network/)
 
 
 ## Latest release / Актуальный релиз
